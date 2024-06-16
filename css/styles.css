@@ -1,0 +1,19 @@
+/* styles.css */
+
+*{
+    font-family: "Courier New", monospace
+}
+
+.title,
+.subtitle {
+    font-family: Georgia, serif;
+}
+
+h1{
+    color: darkslategray;
+}
+
+h2{
+    color: darksalmon;
+}
+
